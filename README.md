@@ -2,7 +2,6 @@
 
 Projet universitaire realise en C autour de la construction d'un mini-interpreteur pour un langage imperatif simple. Le programme lit un fichier source, effectue une analyse lexicale et syntaxique, construit un arbre abstrait (AST), puis interprete les instructions reconnues.
 
-> Note : ce depot contient un mini-interpreteur. Il ne contient pas d'implementation SAT, CNF/DIMACS ou Akari.
 
 ## Objectif
 
