@@ -1,0 +1,7 @@
+somme = 0 ;
+i = 1 ;
+tanque i <= 5 faire
+    somme = somme + i ;
+    i = i + 1
+fait ;
+ecrire(somme)

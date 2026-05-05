@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.out
+*.a
+*.so
+*.dylib
+*.exe
+
+# Legacy binaries that may exist at the repository root
+interpreteur
+calculette
+test_lexeme
+essai_ast
+
+# Editor and system files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local assistant/tool configuration
+.claude/

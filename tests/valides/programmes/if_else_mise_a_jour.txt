@@ -1,0 +1,1 @@
+x = 5 ; y = 1 ; si x < 10 alors x = x + 1 sinon y = y * 2 fsi ; ecrire(x) ;

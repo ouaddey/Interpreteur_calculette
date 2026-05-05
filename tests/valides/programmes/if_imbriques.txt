@@ -1,0 +1,1 @@
+x = 5 ; y = 10 ; si x < y alors si x < 3 alors ecrire(0) sinon ecrire(1) fsi sinon ecrire(2) fsi ;

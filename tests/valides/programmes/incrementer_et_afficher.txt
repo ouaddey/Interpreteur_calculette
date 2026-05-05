@@ -1,0 +1,1 @@
+lire(x) ; y = x + 1 ; ecrire(y) ;

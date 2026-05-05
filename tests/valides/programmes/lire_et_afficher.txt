@@ -1,0 +1,1 @@
+x = 5 ; lire(y) ; ecrire(x) ;

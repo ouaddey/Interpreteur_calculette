@@ -1,0 +1,1 @@
+lire(x) ; si x < 0 alors ecrire(0) sinon ecrire(x) fsi ;

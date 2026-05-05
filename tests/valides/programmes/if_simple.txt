@@ -1,0 +1,1 @@
+x = 5 ; si x < 10 alors ecrire(x) fsi ;

@@ -1,0 +1,6 @@
+x = 7 ;
+si x > 5 alors
+    ecrire(x)
+sinon
+    ecrire(0)
+fsi
